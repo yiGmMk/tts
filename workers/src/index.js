@@ -151,6 +151,8 @@ async function handleRequest(request) {
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
             </svg>
             <span class="ml-2 font-bold text-white text-xl">Microsoft TTS API</span>
+            <a href="https://programnotes.cn/" class="ml-4 text-white hover:text-gray-200">编程笔记</a> 
+            <a href="https://nav.programnotes.cn/" class="ml-4 text-white hover:text-gray-200">AI导航</a>
           </div>
         </div>
       </div>
